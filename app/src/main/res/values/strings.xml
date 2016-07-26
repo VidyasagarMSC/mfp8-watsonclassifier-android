@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather Classifier</string>
+    <string name="hello_world">I am a classifier!</string>
+    <string name="action_settings">Settings</string>
+</resources>
