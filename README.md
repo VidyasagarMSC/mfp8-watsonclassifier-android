@@ -72,13 +72,13 @@ Open Chrome extension <strong>Postman</strong> create a request as follows
   
 - Keep the Postman response open – you will need the info later. It would
 look something like this:
-<br><em>{ "classifier_id": "563C46x20-nlc-154", "name":
+```{ "classifier_id": "563C46x20-nlc-154", "name":
 "TutorialClassifier", "language": "en", "created":
 "2016-01-19T10:52:06.518Z", "url": "https://
 gateway.watsonplatform.net/natural-language-classifier/api/v1/
 classifiers/563C46x20-nlc-154", "status": "Training",
 "status_description": "The classifier instance is in its training
-phase, not yet ready to accept classify requests"}</em>
+phase, not yet ready to accept classify requests"}```
 - Your Watson backend is ready to query via REST.
 
 ## Edit and Run via Android Studio
