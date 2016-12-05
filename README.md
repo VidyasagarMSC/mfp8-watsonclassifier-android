@@ -35,7 +35,7 @@ It also walks you through adding IBM MobileFirst Platform Foundation V8  for add
 This is what teaches the service to classify weather related info v/s golf
 related info.
 Download the sample
-  - Go to http://ibm.co/1n7ipKV
+  - Go to [Weather Training Data](https://raw.githubusercontent.com/VidyasagarMSC/mfp8-watsonclassifier-android/master/weather_data_train.csv)
   - Save the file. (<em>If the file is shown on the browser, Right-click and Save the file with .csv extension.</em>)
 
   ### Upload the training data
